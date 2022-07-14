@@ -1,0 +1,22 @@
+
+node_modules/
+environment/
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Editors and IDEs
+.idea
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+report.html
+
+.env
+package-lock.json*
+
+

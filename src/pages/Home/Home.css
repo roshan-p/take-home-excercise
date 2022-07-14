@@ -1,0 +1,13 @@
+.start-button {
+    min-width: 200px;
+    min-height: 50px;
+    font-size: 18px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    border-width: 0px;
+
+}
+.home-msg-font{
+    font-size: 16px;
+}

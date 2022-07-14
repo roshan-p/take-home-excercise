@@ -1,0 +1,48 @@
+.user-info-form-contailner {
+    justify-content: unset;
+    width: 50%;
+    margin: auto;
+}
+
+.user-form-label {
+    font-size: 15px;
+}
+
+.form-container {
+    text-align: initial !important;
+}
+
+.button-container {
+    width: 100%;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.button-inner {
+    display: inline-block;
+}
+
+.next-button {
+    min-width: 100px;
+    min-height: 50px;
+    font-size: 18px;
+    background-color: black;
+    border-radius: 5px;
+    color: white;
+    border-width: 0px;
+    margin: 10px;
+    margin-left: 20px;
+}
+
+.back-button {
+    min-width: 100px;
+    min-height: 50px;
+    font-size: 18px;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    border-width: 1px;
+    border-color: black;
+    margin: 10px;
+    margin-right: 20px;
+}
